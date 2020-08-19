@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version [2.7.1p83]
+* Ruby version <span style="color:red">2.7.1p83</span>
 
 * System dependencies
 
